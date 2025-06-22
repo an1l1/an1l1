@@ -20,6 +20,6 @@ Computer Science student  •  Focused on back-end development
 - Finish the CS50 course
 - Deepen my Java knowledge
 
-## > Contact
+## Contact
 
 Email: ajbordon8o8 [at] gmail.com  •  LinkedIn: [linkedin.com/in/ana-julia-bordon](https://linkedin.com/in/ana-julia-bordon)
