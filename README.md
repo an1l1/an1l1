@@ -1,16 +1,25 @@
-## Hi there 👋
+## Ana Julia Bordon (an1l1)
 
-<!--
-**an1l1/an1l1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student  •  Focused on back-end development
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML/CSS
+- MySQL 
+
+## Currently Learning
+
+- C
+- Java
+- JavaScript
+
+## Goals
+
+- Get my first internship in tech
+- Finish the CS50 course
+- Deepen my Java knowledge
+
+## > Contact
+
+Email: ajbordon8o8 [at] gmail.com  •  LinkedIn: [linkedin.com/in/ana-julia-bordon](https://linkedin.com/in/ana-julia-bordon)
